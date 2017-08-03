@@ -1,0 +1,11 @@
+dbconfig.py
+
+
+*.pyc
+
+
+/nhl-data/*
+/data-for-db/*
+/fallback-data/*
+
+.DS_Store
